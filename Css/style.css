@@ -1,0 +1,42 @@
+/* Importing Google fonts */
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+
+/* Importing component files */
+@import url("Components/container.css");
+@import url("Components/banner.css");
+@import url("Components/button.css");
+@import url("Components/avatar.css");
+@import url("Components/card.css");
+
+
+/* General style rules for fonts and colors */
+
+body {
+	font-family: 'Arial';
+	font-size: 20px;
+	margin: 0px;
+	background-color: grey);
+	background-attachment:fixed;
+	}
+h1{
+  font-family: 'Arial', cursive;
+  font-size: 30px;
+  margin: 0px;
+  font-weight: bold;
+}
+h2{
+	font-family: 'Arial';
+	font-weight: bold;
+	color: white;
+}
+
+h3{
+	font-family: 'Arial'
+	font-weight: bold;
+	color: black;
+
+}
+a {
+  text-decoration: none;
+}
+
